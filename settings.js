@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94751549754",
-  SUDO_NUMBERS : "94751549754,94751549754",
+  OWNER_NUMBER: "94783570188",
+  SUDO_NUMBERS : "94783570188,94783570188",
   OWNER_NAME: "『 ✘⏤͟͟͞͞ 𝙍 𝙀 𝙓 𝙂 𝘼 𝙈 𝙄 𝙉 𝙂🌸 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -27,17 +27,17 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
-  DESABLE_WELCOME_GOODBYE_JIDS : [],
+  DESABLE_WELCOME_GOODBYE_JIDS : [1],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ✘⏤͟͟͞͞ 𝙍 𝙀 𝙓 𝙂 𝘼 𝙈 𝙄 𝙉 𝙂 ]',
-  BAD_WORDS : 'fuck,pussy',
+  BAD_WORDS : 'fuck,pussy.dick,xxx,hutto,ponnyo',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '🌸',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
@@ -76,7 +76,7 @@ module.exports = {
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
-    "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
+    "na" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
   LOAD_ANIMATION : true,
  
