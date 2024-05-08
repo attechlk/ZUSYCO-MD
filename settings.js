@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94764572394",
-  SUDO_NUMBERS : "94764572394",
-  OWNER_NAME: "『 ^R ᴀ s ᴀ ɴ ᴊ ᴀ ɴ A^ 』",
+  OWNER_NUMBER: "94784604369",
+  SUDO_NUMBERS : "94763231333",
+  OWNER_NAME: "『 R E X 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -27,8 +27,8 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [1],
   TIME_ZONE :  "Asia/Colombo",
@@ -41,7 +41,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 500,
+  MAX_SIZE : 200,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
